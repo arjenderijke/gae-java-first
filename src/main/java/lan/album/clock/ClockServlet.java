@@ -17,6 +17,6 @@ public class ClockServlet extends HttpServlet {
 
 	resp.setContentType("text/html");
 	PrintWriter out = resp.getWriter();
-	out.println("<p>The time is: " + fmt.format(new Date()) + "</p>");
+	out println("<p>The time is: " + fmt.format(new Date()) + "</p>");
     }
 }
