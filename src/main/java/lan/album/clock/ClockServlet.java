@@ -1,4 +1,4 @@
-package clock;
+package lan.album.clock;
 
 import java.io.IOException;
 import java.io.PrintWriter;
